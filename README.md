@@ -1,4 +1,4 @@
-### Perintah Termux :
+### Command Termux :
     $ apt update -y && apt upgrade -y
     $ pkg install git
     $ pkg install python3
